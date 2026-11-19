@@ -1,4 +1,4 @@
-![LTE-6G cover](assets/cover.png)
+![LTE-6G cover](IMG_5457.png)
 
 # 📡⚡ LTE-6G — LTE to 6G Internet Converter
 
